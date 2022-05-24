@@ -1,7 +1,7 @@
 # This is all about library stuff
 
 # Arguably the only work by Herman Melville anyone knows
-#This variable stores the title of a book as a string
+# This variable stores the title of a book as a string
 book_title = "Moby Dick"
 
 # There's a lot of titles because it's a library
